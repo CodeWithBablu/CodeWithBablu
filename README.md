@@ -1,3 +1,5 @@
+<p align="center"><img src="cover-thompson.png"></p>
+
 <h1 align="center">👋 Hey there, I'm Babasaheb Bhalekar!</h1>
 <h3 align="center">🚀 Full Stack Developer | Tech Enthusiast from India</h3>
 
@@ -63,21 +65,17 @@
 
 <!-- Icons and links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/babasahebbhalekar/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-  </a>
-  <!-- Uncomment below if you have other social media accounts -->
-  <!--
-  <a href="https://twitter.com/your_twitter" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" />
-  </a>
-  <a href="https://www.instagram.com/your_instagram" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" />
-  </a>
-  <a href="https://discord.gg/your_discord" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
-  </a>
-  -->
+  Connect with me
+
+<p align="center">
+<!--   <a href="https://kevintamakuwala.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a> -->
+<!--   <a href="https://codeforces.com/profile/kevintamakuwala16"><img src="https://img.shields.io/badge/codeforces-E4405F?style=for-the-badge&logo=codeforces&logoColor=blue"/></a> -->
+  <a href="https://www.codechef.com/users/babasaheb256"><img src="https://img.shields.io/badge/codechef-brown?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/babasahebbhalekar/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:babasahebbhalekar8245@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/babasaheb256/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+</p>
+
 </p>
 
 <!--horizontal divider(gradiant)-->
