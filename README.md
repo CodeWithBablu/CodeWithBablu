@@ -9,7 +9,7 @@
 </p>
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![divider](https://github.com/user-attachments/assets/d2f27e66-651a-4e22-8d84-62984d071523)
 
 <!-- Quote or motto -->
 <div id="user-content-toc">
@@ -79,4 +79,5 @@
 </p>
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![divider](https://github.com/user-attachments/assets/d2f27e66-651a-4e22-8d84-62984d071523)
+
